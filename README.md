@@ -1,6 +1,6 @@
 # Principal-Component-Analysis-on-Breast-Cancer-Data
 
-* The goal of this project is to implement Principal Component Analysis on the Breast Cancer Data (without the 'target' variable).
+The goal of this project is to implement Principal Component Analysis on the Breast Cancer Data (without the 'target' variable).
 
 
 The number of patients/instances is 569, with 30 original features (predictors). 
